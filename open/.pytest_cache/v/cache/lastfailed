@@ -1,0 +1,5 @@
+{
+  "tests/test_edit_line_range.py::test_no_unused_os_tempfile_imports": true,
+  "tests/test_verify_tool.py::test_edit_failure_keeps_list_for_retry": true,
+  "tests/test_write_integrity.py::test_a_read_only_file_still_reports_an_error": true
+}
